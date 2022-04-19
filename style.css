@@ -38,7 +38,7 @@
     
   }
   .heart:after {
-    background-color: #660000;
+    background-color: pink;
     content: "";
     border-radius: 50%;
     position: absolute;
