@@ -1,9 +1,10 @@
 <style>
-  h6 {
+  h1 {
       text-align: center;
-      font-color: red;
-      font-size: 50;
-  }
+      color: red;
+      font-size: 50px;
+      font-family: arial;  
+}
   
   .back {
     position: fixed;
